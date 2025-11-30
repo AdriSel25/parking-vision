@@ -1,8 +1,8 @@
-image,plaza_id,pred
+image,plaza_id,label
 img_05.jpg,P01,Ocupada
 img_05.jpg,P02,Libre
 img_05.jpg,P03,Libre
-img_05.jpg,P04,Ocupada
+img_05.jpg,P04,Libre
 img_05.jpg,P05,Libre
 img_05.jpg,P06,Libre
 img_05.jpg,P07,Ocupada
@@ -39,10 +39,10 @@ img_05.jpg,P37,Ocupada
 img_05.jpg,P38,Ocupada
 img_05.jpg,P39,Libre
 img_05.jpg,P40,Ocupada
-img_05.jpg,P41,Libre
+img_05.jpg,P41,Ocupada
 img_05.jpg,P42,Libre
 img_05.jpg,P43,Libre
-img_05.jpg,P44,Ocupada
+img_05.jpg,P44,Libre
 img_05.jpg,P45,Ocupada
 img_05.jpg,P46,Ocupada
 img_05.jpg,P47,Libre

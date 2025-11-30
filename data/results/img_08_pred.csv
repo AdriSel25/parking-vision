@@ -1,4 +1,4 @@
-image,plaza_id,pred
+image,plaza_id,label
 img_08.jpg,P01,Libre
 img_08.jpg,P02,Libre
 img_08.jpg,P03,Ocupada
@@ -42,8 +42,8 @@ img_08.jpg,P40,Ocupada
 img_08.jpg,P41,Libre
 img_08.jpg,P42,Ocupada
 img_08.jpg,P43,Ocupada
-img_08.jpg,P44,Libre
-img_08.jpg,P45,Libre
+img_08.jpg,P44,Ocupada
+img_08.jpg,P45,Ocupada
 img_08.jpg,P46,Ocupada
 img_08.jpg,P47,Libre
 img_08.jpg,P48,Ocupada
